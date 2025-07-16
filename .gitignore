@@ -1,0 +1,27 @@
+# Entorno virtual
+venv/
+env/
+
+# Archivos de configuración sensibles
+backend/email.key
+credentials/
+*.pem
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sesiones de Flask
+flask_session/
+
+# Base de datos de prueba
+test_data.json
+backend/email.key
+.vscode/
+diagrams/
+# Archivos pptx
+*.pptx
+# Archivos pdf
+*.pdf
