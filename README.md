@@ -1,6 +1,6 @@
 # Clear Pass: Aplicación Web para Gestión de Importaciones
 
-## Descripción del Proyecto
+## Descripción del Proyecto 
 
 **Clear Pass** es una aplicación web diseñada para simplificar y brindar confianza en el proceso de gestión de importaciones. Este proyecto sirve como **Trabajo Práctico Integrador (TPI)**, demostrando la aplicación de principios de Programación Orientada a Objetos (POO), patrones de diseño y el uso de frameworks de Python para el desarrollo web full-stack.
 
